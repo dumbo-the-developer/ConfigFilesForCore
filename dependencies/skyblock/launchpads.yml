@@ -238,7 +238,7 @@ launchpads:
       yaw: 0.0
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: spiders_den
       x: -201.0
       y: 84.0
       z: -232.0
@@ -249,7 +249,7 @@ launchpads:
     end: The Hub
     from:
       ==: org.bukkit.Location
-      world: world
+      world: spiders_den
       x: -197.46231699787526
       y: 84.0
       z: -228.90950928341766
@@ -257,7 +257,7 @@ launchpads:
       yaw: -40.911743
     to:
       ==: org.bukkit.Location
-      world: world
+      world: spiders_den
       x: -164.0
       y: 77.0
       z: -163.0
@@ -265,7 +265,7 @@ launchpads:
       yaw: -45.0
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: spiders_den
       x: -195.0
       y: 89.0
       z: -226.0
@@ -284,7 +284,7 @@ launchpads:
     end: The End
     from:
       ==: org.bukkit.Location
-      world: world
+      world: spiders_den
       x: -385
       y: 89
       z: -268
@@ -292,7 +292,7 @@ launchpads:
       yaw: 90
     to:
       ==: org.bukkit.Location
-      world: world
+      world: spiders_den
       x: -492
       y: 107
       z: -275
@@ -300,7 +300,7 @@ launchpads:
       yaw: 90
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: spiders_den
       x: -389
       y: 86
       z: -268
@@ -308,7 +308,7 @@ launchpads:
       yaw: 90
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: the_end
       x: -499
       y: 101
       z: -275
@@ -319,7 +319,7 @@ launchpads:
     end: Spider's Den
     from:
       ==: org.bukkit.Location
-      world: world
+      world: the_end
       x: -495.42572027018326
       y: 101.0
       z: -274.99563556713014
@@ -327,7 +327,7 @@ launchpads:
       yaw: 270.97427
     to:
       ==: org.bukkit.Location
-      world: world
+      world: the_end
       x: -389
       y: 86
       z: -268
@@ -335,7 +335,7 @@ launchpads:
       yaw: 90
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: the_end
       x: -492
       y: 107
       z: -275
@@ -343,7 +343,7 @@ launchpads:
       yaw: -90
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: spiders_den
       x: -383.5
       y: 89
       z: -267.5
