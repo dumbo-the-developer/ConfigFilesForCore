@@ -432,7 +432,7 @@ launchpads:
       yaw: -145
     to:
       ==: org.bukkit.Location
-      world: world
+      world: world2
       x: 109
       y: 76
       z: -202
@@ -459,7 +459,7 @@ launchpads:
     end: The Hub
     from:
       ==: org.bukkit.Location
-      world: world
+      world: world2
       x: 111
       y: 70
       z: -203
