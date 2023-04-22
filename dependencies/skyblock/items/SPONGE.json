@@ -1,16 +1,18 @@
 {
   "itemid": "minecraft:sponge",
   "displayname": "§fSponge",
-  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\",1:\"\",2:\"§eClick to view recipe!\"],Name:\"§fSponge\"},ExtraAttributes:{id:\"SPONGE\"}}",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSponge\"},ExtraAttributes:{id:\"SPONGE\"}}",
   "damage": 0,
   "lore": [
     "§f§lCOMMON"
   ],
   "internalname": "SPONGE",
+  "modver": "2.1.1-PRE",
+  "vanilla": true,
   "clickcommand": "",
-  "modver": "1.0.0",
   "infoType": "WIKI_URL",
   "info": [
+    "https://wiki.hypixel.net/Sponge",
     "https://hypixel-skyblock.fandom.com/wiki/Sponge"
   ]
 }

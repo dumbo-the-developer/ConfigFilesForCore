@@ -7,8 +7,9 @@
     "§9§lRARE"
   ],
   "internalname": "IRON_BARDING",
+  "modver": "2.0.0-REL",
+  "vanilla": true,
   "clickcommand": "",
-  "modver": "1.0.0",
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Horse_Armor"

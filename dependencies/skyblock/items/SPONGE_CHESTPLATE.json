@@ -1,16 +1,18 @@
 {
   "itemid": "minecraft:leather_chestplate",
   "displayname": "§5Sponge Chestplate",
-  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Defense: §a+145\",1:\"\",2:\"§6Full Set Bonus: Absorb\",3:\"§7§9Doubles§7 your §a❈ Defense§7\",4:\"§7while in water.\",5:\"\",6:\"§7§8This item can be reforged!\",7:\"§5§lEPIC CHESTPLATE\"],color:16768081,Name:\"§5Sponge Chestplate\"},ExtraAttributes:{id:\"SPONGE_CHESTPLATE\"}}",
+  "nbttag": "{Unbreakable:1,HideFlags:254,display:{Lore:[0:\"§7Sea Creature Chance: §c+1.8%\",1:\"§7Defense: §a+145\",2:\"\",3:\"§6Full Set Bonus: Absorb\",4:\"§7§9Doubles§7 your §a❈ Defense§7\",5:\"§7while in water.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aFishing Skill 17\",9:\"§5§lEPIC CHESTPLATE\"],color:16768081,Name:\"§5Sponge Chestplate\"},ExtraAttributes:{color:\"255:220:81\",modifier:\"fierce\",originTag:\"CRAFTING_GRID_COLLECT\",id:\"SPONGE_CHESTPLATE\"}}",
   "damage": 0,
   "lore": [
+    "§7Sea Creature Chance: §c+1.8%",
     "§7Defense: §a+145",
     "",
     "§6Full Set Bonus: Absorb",
     "§7§9Doubles§7 your §a❈ Defense§7",
     "§7while in water.",
     "",
-    "§7§8This item can be reforged!",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aFishing Skill 17",
     "§5§lEPIC CHESTPLATE"
   ],
   "recipe": {
@@ -26,10 +28,11 @@
   },
   "internalname": "SPONGE_CHESTPLATE",
   "clickcommand": "viewrecipe",
-  "modver": "1.0.0",
+  "modver": "2.1.0-REL",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Sponge_Armor"
+    "https://hypixel-skyblock.fandom.com/wiki/Sponge_Armor",
+    "https://wiki.hypixel.net/Sponge_Chestplate"
   ],
   "crafttext": "Requires: Sponge IX"
 }

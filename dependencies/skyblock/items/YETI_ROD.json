@@ -1,13 +1,16 @@
 {
-  "internalname": "YETI_ROD",
   "itemid": "minecraft:fishing_rod",
-  "displayname": "§6Yeti Rod",
-  "clickcommand": "",
+  "displayname": "§5Yeti Rod",
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+130\",2:\"§7Fishing Speed: §a+75\",3:\"\",4:\"§7Doubles the chance of the sea\",5:\"§7creatures that you spawn to be\",6:\"§7winter sea creatures.\",7:\"\",8:\"§7Increase your walk speed by §a1%\",9:\"§a§7for every §e10 §7fish that you\",10:\"§7catch using this rod! Maximum\",11:\"§7increase of §a100%§7!\",12:\"\",13:\"§7Fish Caught: §a0\",14:\"§7Walk Speed Bonus: §f0\",15:\"\",16:\"§8This item can be reforged!\",17:\"§4❣ §cRequires §aFishing Skill 25\",18:\"§5§lEPIC FISHING ROD\"],Name:\"§5Yeti Rod\"},ExtraAttributes:{id:\"YETI_ROD\"}}",
   "damage": 0,
-  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Damage: §c+100\",1:\"\",2:\"§7Increase your walk speed by §a1%\",3:\"§a§7for every §e10 §7fish that you\",4:\"§7catch using this rod! Maximum\",5:\"§7increase of §a100%§7!\",6:\"\",7:\"§7Fish Caught: §a0\",8:\"§7Walk Speed Bonus: §f0\",9:\"\",10:\"§7Increases fishing speed by §975%\",11:\"\",12:\"§6§lLEGENDARY FISHING ROD\"],Name:\"§6Yeti Rod\"},ExtraAttributes:{modifier:\"salty\",originTag:\"UNKNOWN\",id:\"YETI_ROD\",uuid:\"6e8af9da-e0e1-4640-8eb5-8a94cb087ee9\",timestamp:\"4/1/20 12:25 AM\"}}",
-  "modver": "1.0.0",
   "lore": [
-    "§7Damage: §c+100",
+    "§7Damage: §c+150",
+    "§7Strength: §c+130",
+    "§7Fishing Speed: §a+75",
+    "",
+    "§7Doubles the chance of the sea",
+    "§7creatures that you spawn to be",
+    "§7winter sea creatures.",
     "",
     "§7Increase your walk speed by §a1%",
     "§a§7for every §e10 §7fish that you",
@@ -17,12 +20,17 @@
     "§7Fish Caught: §a0",
     "§7Walk Speed Bonus: §f0",
     "",
-    "§7Increases fishing speed by §975%",
-    "",
-    "§6§lLEGENDARY FISHING ROD"
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aFishing Skill 25",
+    "§5§lEPIC FISHING ROD"
   ],
+  "internalname": "YETI_ROD",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "2.1.0-REL",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Yeti_Rod"
+    "https://hypixel-skyblock.fandom.com/wiki/Yeti_Rod",
+    "https://wiki.hypixel.net/Yeti_Rod"
   ]
 }

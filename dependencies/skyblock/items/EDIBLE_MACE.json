@@ -1,27 +1,24 @@
 {
   "internalname": "EDIBLE_MACE",
   "itemid": "minecraft:mutton",
-  "displayname": "§9Spicy Edible Mace",
-  "clickcommand": "",
+  "displayname": "§9Edible Mace",
+  "clickcommand": "viewrecipe",
   "damage": 0,
-  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7Damage: §c+125\",1:\"§7Strength: §c+27 §8(Spicy +2)\",2:\"§7Crit Chance: §c+1% §8(Spicy +1%)\",3:\"§7Crit Damage: §c+18% §8(Spicy +18%)\",4:\"§7Attack Speed: §c+4% §8(Spicy +4%)\",5:\"\",6:\"§6Item Ability: ME SMASH HEAD §e§lRIGHT CLICK\",7:\"§7Your next attack deals §cdouble\",8:\"§cdamage §7and weakens animals,\",9:\"§7making them deal §c-35% §7damage\",10:\"§7for §a30 §7seconds.\",11:\"§7§8Debuff doesn't stack.\",12:\"§8Mana Cost: §3100\",13:\"\",14:\"§c☠ §5Requires Wolf LVL 5\",15:\"§9§lRARE SWORD\"],Name:\"§9Spicy Edible Mace\"},ExtraAttributes:{modifier:\"spicy\",originTag:\"QUICK_CRAFTING\",id:\"EDIBLE_MACE\",uuid:\"aac69c3d-5857-4f9b-8519-f2a9a05b9972\",timestamp:\"3/23/20 9:49 PM\"}}",
-  "modver": "1.0.0",
+  "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7Damage: §c+125\",1:\"§7Strength: §c+25\",2:\"\",3:\"§6Ability: ME SMASH HEAD §e§lRIGHT CLICK\",4:\"§7Your next attack deals §cdouble\",5:\"§cdamage §7and weakens animals,\",6:\"§7making them deal §c-35% §7damage\",7:\"§7for §a30 §7seconds.\",8:\"§7§8Debuff doesn\u0027t stack.\",9:\"§8Mana Cost: §3100\",10:\"\",11:\"§7§4☠ §cRequires §5Wolf Slayer 5§c.\",12:\"§9§lRARE SWORD\"],Name:\"§9Edible Mace\"},ExtraAttributes:{modifier:\"sharp\",id:\"EDIBLE_MACE\"}}",
+  "modver": "2.1.1-PRE",
   "lore": [
     "§7Damage: §c+125",
-    "§7Strength: §c+27 §8(Spicy +2)",
-    "§7Crit Chance: §c+1% §8(Spicy +1%)",
-    "§7Crit Damage: §c+18% §8(Spicy +18%)",
-    "§7Attack Speed: §c+4% §8(Spicy +4%)",
+    "§7Strength: §c+25",
     "",
-    "§6Item Ability: ME SMASH HEAD §e§lRIGHT CLICK",
+    "§6Ability: ME SMASH HEAD §e§lRIGHT CLICK",
     "§7Your next attack deals §cdouble",
     "§cdamage §7and weakens animals,",
     "§7making them deal §c-35% §7damage",
     "§7for §a30 §7seconds.",
-    "§7§8Debuff doesn't stack.",
+    "§7§8Debuff doesn\u0027t stack.",
     "§8Mana Cost: §3100",
     "",
-    "§c☠ §5Requires Wolf LVL 5",
+    "§7§4☠ §cRequires §5Wolf Slayer 5§c.",
     "§9§lRARE SWORD"
   ],
   "recipe": {
@@ -35,9 +32,11 @@
     "C2": "GOLDEN_TOOTH:18",
     "C3": ""
   },
-  "clickcommand": "viewrecipe",
+  "slayer_req": "WOLF_5",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Edible_Mace"
-  ]
+    "https://hypixel-skyblock.fandom.com/wiki/Edible_Mace",
+    "https://wiki.hypixel.net/Edible_Mace"
+  ],
+  "crafttext": ""
 }

@@ -7,6 +7,11 @@
     "§f§lCOMMON"
   ],
   "internalname": "LOG",
+  "modver": "2.1.0-REL",
+  "vanilla": true,
   "clickcommand": "",
-  "modver": "1.0.0"
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://wiki.hypixel.net/Oak_Wood"
+  ]
 }

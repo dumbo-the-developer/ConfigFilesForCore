@@ -7,10 +7,13 @@
     "§f§lCOMMON"
   ],
   "internalname": "SUGAR_CANE",
+  "modver": "2.1.1-PRE",
+  "vanilla": true,
   "clickcommand": "",
-  "modver": "1.0.0",
+  "crafttext": "",
   "infoType": "WIKI_URL",
   "info": [
+    "https://wiki.hypixel.net/Sugar_Cane",
     "https://hypixel-skyblock.fandom.com/wiki/Sugar_Cane"
   ]
 }

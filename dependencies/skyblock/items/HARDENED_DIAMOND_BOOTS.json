@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_boots",
   "displayname": "§9Hardened Diamond Boots",
-  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Defense: §a+55\",1:\"\",2:\"§7§8This item can be reforged!\",3:\"§9§lRARE BOOTS\"],Name:\"§9Hardened Diamond Boots\"},ExtraAttributes:{id:\"HARDENED_DIAMOND_BOOTS\"}}",
+  "nbttag": "{Unbreakable:1,HideFlags:254,display:{Lore:[0:\"§7Defense: §a+55\",1:\"\",2:\"§7§8This item can be reforged!\",3:\"§9§lRARE BOOTS\"],Name:\"§9Hardened Diamond Boots\"},ExtraAttributes:{id:\"HARDENED_DIAMOND_BOOTS\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+55",
@@ -22,10 +22,11 @@
   },
   "internalname": "HARDENED_DIAMOND_BOOTS",
   "clickcommand": "viewrecipe",
-  "modver": "1.0.0",
+  "modver": "2.1.0-REL",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Hardened_Diamond_Armor"
+    "https://hypixel-skyblock.fandom.com/wiki/Hardened_Diamond_Armor",
+    "https://wiki.hypixel.net/Hardened_Diamond_Boots"
   ],
   "crafttext": "Requires: Diamond VII"
 }

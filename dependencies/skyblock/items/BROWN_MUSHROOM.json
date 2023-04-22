@@ -7,6 +7,13 @@
     "§f§lCOMMON"
   ],
   "internalname": "BROWN_MUSHROOM",
+  "modver": "2.1.0-REL",
+  "vanilla": true,
   "clickcommand": "",
-  "modver": "1.0.0"
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Mushroom",
+    "https://wiki.hypixel.net/Mushroom"
+  ],
+  "crafttext": ""
 }

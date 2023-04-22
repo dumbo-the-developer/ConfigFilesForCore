@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:diamond_helmet",
   "displayname": "§9Hardened Diamond Helmet",
-  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Defense: §a+60\",1:\"\",2:\"§7§8This item can be reforged!\",3:\"§9§lRARE HELMET\"],Name:\"§9Hardened Diamond Helmet\"},ExtraAttributes:{id:\"HARDENED_DIAMOND_HELMET\"}}",
+  "nbttag": "{Unbreakable:1,HideFlags:254,display:{Lore:[0:\"§7Defense: §a+60\",1:\"\",2:\"§7§8This item can be reforged!\",3:\"§9§lRARE HELMET\"],Name:\"§9Hardened Diamond Helmet\"},ExtraAttributes:{id:\"HARDENED_DIAMOND_HELMET\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+60",
@@ -22,10 +22,11 @@
   },
   "internalname": "HARDENED_DIAMOND_HELMET",
   "clickcommand": "viewrecipe",
-  "modver": "1.0.0",
+  "modver": "2.1.0-REL",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Hardened_Diamond_Armor"
+    "https://hypixel-skyblock.fandom.com/wiki/Hardened_Diamond_Armor",
+    "https://wiki.hypixel.net/Hardened_Diamond_Helmet"
   ],
   "crafttext": "Requires: Diamond VII"
 }

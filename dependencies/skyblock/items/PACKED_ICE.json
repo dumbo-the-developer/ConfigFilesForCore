@@ -19,10 +19,7 @@
   },
   "internalname": "PACKED_ICE",
   "clickcommand": "viewrecipe",
-  "modver": "1.0.0",
-  "infoType": "WIKI_URL",
-  "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Packed_Ice"
-  ],
+  "modver": "1.7.1-REL",
+  "vanilla": true,
   "crafttext": "Requires: Ice III"
 }

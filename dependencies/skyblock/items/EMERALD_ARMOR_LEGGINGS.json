@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:leather_leggings",
   "displayname": "§5Emerald Armor Leggings",
-  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Defense: §a+75\",1:\"\",2:\"§6Full Set Bonus: Tank\",3:\"§7Increases §c❤ Health §7by §a+1§7\",4:\"§7and §a❈ Defense§7 by §a+1§7 for\",5:\"§7every §b3,000 §7Emeralds in your\",6:\"§7collection. Max 350 each.\",7:\"\",8:\"§7§8This item can be reforged!\",9:\"§5§lEPIC LEGGINGS\"],color:65280,Name:\"§5Emerald Armor Leggings\"},ExtraAttributes:{id:\"EMERALD_ARMOR_LEGGINGS\"}}",
+  "nbttag": "{Unbreakable:1,HideFlags:254,display:{Lore:[0:\"§7Defense: §a+75\",1:\"\",2:\"§6Full Set Bonus: Tank\",3:\"§7Increases §c❤ Health §7by §a+1§7\",4:\"§7and §a❈ Defense§7 by §a+1§7 for\",5:\"§7every §b3,000 §7Emeralds in your\",6:\"§7collection. Max 350 each.\",7:\"\",8:\"§7§8This item can be reforged!\",9:\"§5§lEPIC LEGGINGS\"],color:65280,Name:\"§5Emerald Armor Leggings\"},ExtraAttributes:{color:\"0:255:0\",id:\"EMERALD_ARMOR_LEGGINGS\"}}",
   "damage": 0,
   "lore": [
     "§7Defense: §a+75",
@@ -28,10 +28,11 @@
   },
   "internalname": "EMERALD_ARMOR_LEGGINGS",
   "clickcommand": "viewrecipe",
-  "modver": "1.0.0",
+  "modver": "2.1.0-REL",
   "infoType": "WIKI_URL",
   "info": [
-    "https://hypixel-skyblock.fandom.com/wiki/Emerald_Armor"
+    "https://hypixel-skyblock.fandom.com/wiki/Emerald_Armor",
+    "https://wiki.hypixel.net/Emerald_Armor_Leggings"
   ],
   "crafttext": "Requires: Emerald IX"
 }
