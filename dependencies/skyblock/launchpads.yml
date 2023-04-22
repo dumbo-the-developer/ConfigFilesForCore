@@ -432,7 +432,7 @@ launchpads:
       yaw: -145
     to:
       ==: org.bukkit.Location
-      world: world2
+      world: world
       x: 109
       y: 76
       z: -202
@@ -448,7 +448,7 @@ launchpads:
       yaw: -145
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 113
       y: 71
       z: -206
@@ -459,7 +459,7 @@ launchpads:
     end: The Hub
     from:
       ==: org.bukkit.Location
-      world: world2
+      world: the_barn
       x: 111
       y: 70
       z: -203
@@ -467,7 +467,7 @@ launchpads:
       yaw: 45
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 109
       y: 76
       z: -202
@@ -475,7 +475,7 @@ launchpads:
       yaw: 45
     to:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 81
       y: 78
       z: -187
@@ -494,7 +494,7 @@ launchpads:
     end: Mushroom Desert
     from:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 142
       y: 92
       z: -311
@@ -502,7 +502,7 @@ launchpads:
       yaw: 180
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 142
       y: 100
       z: -314
@@ -510,7 +510,7 @@ launchpads:
       yaw: 180
     to:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 148
       y: 82
       z: -358
@@ -518,7 +518,7 @@ launchpads:
       yaw: 180
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 154
       y: 77
       z: -364
@@ -529,7 +529,7 @@ launchpads:
     end: The Barn
     from:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 150
       y: 76
       z: -359
@@ -537,7 +537,7 @@ launchpads:
       yaw: 180
     to:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 142
       y: 100
       z: -314
@@ -545,7 +545,7 @@ launchpads:
       yaw: 180
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 148
       y: 82
       z: -358
@@ -553,7 +553,7 @@ launchpads:
       yaw: 180
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: the_barn
       x: 142
       y: 92
       z: -307
