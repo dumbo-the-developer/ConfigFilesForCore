@@ -28,7 +28,7 @@ launchpads:
       yaw: 0.0
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: gold_mine
       x: -4.0
       y: 74.0
       z: -273.0
@@ -39,7 +39,7 @@ launchpads:
     end: The Coal Mine
     from:
       ==: org.bukkit.Location
-      world: world
+      world: gold_mine
       x: -4.493677354077985
       y: 74.0
       z: -269.40401468174684
@@ -47,7 +47,7 @@ launchpads:
       yaw: -358.6901
     to:
       ==: org.bukkit.Location
-      world: world
+      world: gold_mine
       x: -9.0
       y: 68.0
       z: -233.0
@@ -55,7 +55,7 @@ launchpads:
       yaw: 0.0
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: gold_mine
       x: -4.0
       y: 78.0
       z: -266.0
@@ -74,7 +74,7 @@ launchpads:
     end: The Deep Caverns
     from:
       ==: org.bukkit.Location
-      world: world
+      world: gold_mine
       x: -8
       y: 68
       z: -396
@@ -82,7 +82,7 @@ launchpads:
       yaw: -180
     to:
       ==: org.bukkit.Location
-      world: world
+      world: gold_mine
       x: -4
       y: 137
       z: -484
@@ -90,7 +90,7 @@ launchpads:
       yaw: -180
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: gold_mine
       x: -8
       y: 74
       z: -399
@@ -133,7 +133,7 @@ launchpads:
       yaw: 0.0
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: gold_mine
       x: -8
       y: 68
       z: -393
