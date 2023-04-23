@@ -144,7 +144,7 @@ launchpads:
     end: The Hub
     from:
       ==: org.bukkit.Location
-      world: world
+      world: the_park
       x: -273.3072321093645
       y: 82.0
       z: -13.445065509537404
@@ -152,7 +152,7 @@ launchpads:
       yaw: 268.9207
     to:
       ==: org.bukkit.Location
-      world: world
+      world: the_park
       x: -227.0
       y: 78.0
       z: -15.0
@@ -160,7 +160,7 @@ launchpads:
       yaw: -90.0
     infront:
       ==: org.bukkit.Location
-      world: world
+      world: the_park
       x: -269.0
       y: 85.0
       z: -13.0
@@ -203,7 +203,7 @@ launchpads:
       yaw: 0.0
     teleport:
       ==: org.bukkit.Location
-      world: world
+      world: the_park
       x: -276.0
       y: 82.0
       z: -12.0
