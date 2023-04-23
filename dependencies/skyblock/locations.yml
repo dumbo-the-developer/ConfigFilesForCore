@@ -2,17 +2,17 @@ Village:
   pos1:
     ==: org.bukkit.Location
     world: world
-    x: 196.0
+    x: 1960.0
     y: 179.0
-    z: 218.0
+    z: 2180.0
     pitch: 0.0
     yaw: 0.0
   pos2:
     ==: org.bukkit.Location
     world: world
-    x: -228.0
-    y: 53.0
-    z: -225.0
+    x: -2280.0
+    y: -20.0
+    z: -2250.0
     pitch: 0.0
     yaw: 0.0
   name: Village
