@@ -341,18 +341,18 @@ Coal Mine:
 Gold Mine:
   pos1:
     ==: org.bukkit.Location
-    world: world
-    x: 61.0
+    world: gold_mine
+    x: 610.0
     y: 23.0
-    z: -267.0
+    z: -2670.0
     pitch: 0.0
     yaw: 0.0
   pos2:
     ==: org.bukkit.Location
-    world: world
-    x: -110.0
-    y: 138.0
-    z: -394.0
+    world: gold_mine
+    x: -1100.0
+    y: 130.0
+    z: -3940.0
     pitch: 0.0
     yaw: 0.0
   name: Gold Mine
